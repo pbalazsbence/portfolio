@@ -72,18 +72,18 @@ export default function Home() {
               <div className="relative aspect-video overflow-hidden">
                 <Image
                   src="/images/project-1.jpg"
-                  alt="Pékség Kft. landing page"
+                  alt="Személyi edző edzésoldal – Budapest"
                   fill
                   className="object-cover transition-transform duration-500 group-hover:scale-105"
                 />
               </div>
               <div className="p-6">
-                <h3 className="mb-2 text-xl font-semibold">Pékség Kft.</h3>
+                <h3 className="mb-2 text-xl font-semibold">Személyi edző – Budapest</h3>
                 <p className="mb-4 text-muted-foreground">
-                  Modern landing oldal egy budapesti pékségnek. A projekt célja az online rendelések növelése volt, amit 3 hét alatt 40%-kal sikerült elérni.
+                  Edzésoldal egy budapesti személyi edzőnek: szolgáltatások, árak és kapcsolatfelvétel egy helyen.
                 </p>
                 <Link
-                  href="https://example.com"
+                  href="https://v0-example-training.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-1 text-sm font-medium text-primary transition-colors hover:text-primary/80"
@@ -99,18 +99,18 @@ export default function Home() {
               <div className="relative aspect-video overflow-hidden">
                 <Image
                   src="/images/project-2.jpg"
-                  alt="Dental Smile landing page"
+                  alt="Fogászati rendelő – Budapest"
                   fill
                   className="object-cover transition-transform duration-500 group-hover:scale-105"
                 />
               </div>
               <div className="p-6">
-                <h3 className="mb-2 text-xl font-semibold">Dental Smile Fogászat</h3>
+                <h3 className="mb-2 text-xl font-semibold">Fogászati rendelő – Budapest</h3>
                 <p className="mb-4 text-muted-foreground">
-                  Konverzióra optimalizált weboldal egy debreceni fogászatnak. Az online időpontfoglalások száma megduplázódott az új oldal bevezetése után.
+                  Landing oldal egy budapesti fogászati rendelőnek: szolgáltatások bemutatása és időpontfoglalásra ösztönzés.
                 </p>
                 <Link
-                  href="https://example.com"
+                  href="https://v0-example-dental-clinic.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-1 text-sm font-medium text-primary transition-colors hover:text-primary/80"
